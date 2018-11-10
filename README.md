@@ -1,0 +1,1 @@
+It's just simple neural network. I've taken this piece of code from SoloLearn and I added it here beacause I find it as fascinating.
